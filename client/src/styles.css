@@ -1,0 +1,27 @@
+/* styles.css */
+
+button {
+    background: #ea3c12; 
+  }
+
+  video {
+    position: absolute;
+    top: 0; 
+    left: 0;
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    opacity: 0.8; 
+  }
+
+  .container {
+    position: relative;
+  }
+
+  img {
+    mix-blend-mode: overlay;
+  }
+
+  .mt-8 {
+    z-index: 1; 
+  }
